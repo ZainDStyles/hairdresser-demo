@@ -1,0 +1,17 @@
+# <output-name> <url> — the "Fetch salon media" GitHub Action saves web-sized copies here
+hero-1-wide https://d8j0ntlcm91z4.cloudfront.net/user_3L0KjgQ7XIxln2r4ckyx8PRFyqB/hf_20261030_105340_c52eb541-0ef0-45e8-ad16-42ee6fe6c5bb.mp4
+hero-1-tall https://d8j0ntlcm91z4.cloudfront.net/user_3L0KjgQ7XIxln2r4ckyx8PRFyqB/hf_20261030_105340_cf367a94-959a-4758-9d43-91a1e23e3158.mp4
+svc-balayage https://d8j0ntlcm91z4.cloudfront.net/user_3L0KjgQ7XIxln2r4ckyx8PRFyqB/hf_20261030_111838_83933a61-36c0-4d55-9f61-a0ff46d5cb37.png
+svc-colour https://d8j0ntlcm91z4.cloudfront.net/user_3L0KjgQ7XIxln2r4ckyx8PRFyqB/hf_20261030_122141_f77eb353-9125-40d1-934c-001419246358.png
+svc-blowdry https://d8j0ntlcm91z4.cloudfront.net/user_3L0KjgQ7XIxln2r4ckyx8PRFyqB/hf_20261030_122139_42bddaf1-378f-47bd-9d45-235882ef6a61.png
+svc-extensions https://d8j0ntlcm91z4.cloudfront.net/user_3L0KjgQ7XIxln2r4ckyx8PRFyqB/hf_20261030_122145_9f870016-d5e9-4120-8599-5736ba708aac.png
+svc-bridal https://d8j0ntlcm91z4.cloudfront.net/user_3L0KjgQ7XIxln2r4ckyx8PRFyqB/hf_20261030_122140_713d3fde-f1eb-4db6-8b25-b476ffc93b59.png
+salon-interior https://d8j0ntlcm91z4.cloudfront.net/user_3L0KjgQ7XIxln2r4ckyx8PRFyqB/hf_20261030_111841_9443ab77-9afb-4305-b28b-e85d767cf656.png
+before-balayage https://d8j0ntlcm91z4.cloudfront.net/user_3L0KjgQ7XIxln2r4ckyx8PRFyqB/hf_20261030_190902_81874c4f-e2a5-4c7d-8cb7-abed3ec5af56.png
+before-extensions https://d8j0ntlcm91z4.cloudfront.net/user_3L0KjgQ7XIxln2r4ckyx8PRFyqB/hf_20261030_190901_565d1251-9633-4d94-b3a8-23109105733c.png
+before-colour https://d8j0ntlcm91z4.cloudfront.net/user_3L0KjgQ7XIxln2r4ckyx8PRFyqB/hf_20261030_190902_358523d2-58d3-468f-9345-e5dcfea57da6.png
+team-sophie https://d8j0ntlcm91z4.cloudfront.net/user_3L0KjgQ7XIxln2r4ckyx8PRFyqB/hf_20261030_190900_286cdfb7-7b36-477b-b775-4a352306e7ed.png
+team-amara https://d8j0ntlcm91z4.cloudfront.net/user_3L0KjgQ7XIxln2r4ckyx8PRFyqB/hf_20261030_190901_b880e4ce-18c6-4069-878e-e7bfd14c761e.png
+team-lily https://d8j0ntlcm91z4.cloudfront.net/user_3L0KjgQ7XIxln2r4ckyx8PRFyqB/hf_20261030_191546_86be7dcb-4220-4275-9539-51b81e172be7.png
+hero-2-warm-tall https://d8j0ntlcm91z4.cloudfront.net/user_3L0KjgQ7XIxln2r4ckyx8PRFyqB/hf_20261030_105340_48e47724-b455-4256-a378-e54759ec021e.mp4 crop=iw-24:ih-24,scale=iw+24:ih+24,colorbalance=rs=0.06:bs=-0.06:rm=0.07:bm=-0.07:rh=0.04:bh=-0.05,eq=brightness=0.02
+hero-2-warm-wide https://d8j0ntlcm91z4.cloudfront.net/user_3L0KjgQ7XIxln2r4ckyx8PRFyqB/hf_20261030_105340_83c411e1-7097-4972-89db-30bec98ff22b.mp4 crop=iw-24:ih-24,scale=iw+24:ih+24,colorbalance=rs=0.018:bs=-0.018:rm=0.021:bm=-0.021:rh=0.012:bh=-0.015,eq=brightness=-0.015

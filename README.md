@@ -1,1 +1,59 @@
-# hairdresser-demo
+# Hairdresser demo — salon website template
+
+A one-page website for a hair salon: video hero, services, before & after slider,
+team, reviews, opening hours and WhatsApp booking. Everything lives in `index.html`;
+photos and videos live in `assets/`. No build step: it's plain HTML, CSS and JavaScript,
+hosted free on GitHub Pages.
+
+Live demo: https://zaindstyles.github.io/hairdresser-demo/
+
+## Starting a new client site
+
+1. On GitHub, open this repo and click **Use this template** → **Create a new repository**
+   (or copy the files into a new repo). Name it after the salon, e.g. `bloom-hair`.
+2. In the new repo: **Settings** → **Pages** → Source: **Deploy from a branch** →
+   Branch: **main**, folder **/ (root)** → **Save**. It goes live at
+   `https://zaindstyles.github.io/<repo-name>/` within a minute or two.
+3. Re-brand it with the checklist below. Remove the `noindex` line near the top of
+   `index.html` so Google can list the real salon.
+
+## Re-branding it for a new salon
+
+Work through this list in `index.html` (use Find to jump to each one).
+
+1. **Salon name.** Replace every `Atelier`, including the `<title>`, the `og:` tags
+   at the top and the big footer wordmark.
+2. **Phone number.** Replace `07700 900123` / `07700900123` (it's a fake number
+   reserved for TV and films).
+3. **WhatsApp.** In the `SALON` settings near the bottom, set `whatsapp` to the
+   salon's number in international format with no `+` or spaces (e.g. `447912345678`).
+   Also replace `447700900123` in the WhatsApp links.
+4. **Booking app instead of WhatsApp (optional).** If the salon uses Fresha,
+   Booksy or similar, paste their booking link into `bookingUrl` in `SALON`.
+   Every Book button will then go there.
+5. **Opening hours, services and prices.** All in the `SALON` settings.
+6. **Address.** Search for `14 Market Street` (appears in the Visit section and the
+   directions link) and `Market Street` in the hero.
+7. **Instagram.** Search for `instagram.com` and `@atelier.salon`.
+8. **Team.** Names, roles and photos in the "Meet your stylists" section.
+9. **Reviews.** The `REVIEWS` list holds **sample** reviews. Replace them with the
+   salon's real Google reviews before it goes live. Publishing made-up reviews for a
+   real business is illegal in the UK.
+10. **Link preview.** Update `og:url` and `og:image` to the new web address, and
+    replace `assets/og.jpg` (1200 × 630).
+11. **Footer credit.** `Website by ZainDStyles`, so leave it in and link it to your site.
+
+## Swapping photos and videos
+
+Use the salon's real photos wherever possible. They sell far better than AI images.
+
+- Drop new files into `assets/` with the same names (`svc-balayage.jpg`,
+  `team-sophie.jpg`, `before-colour.jpg` and so on). Portrait 3:4 works best.
+- Or list a download link in `assets/media.txt` and push. The "Fetch salon media"
+  GitHub Action downloads it, shrinks it for the web and commits it for you.
+  It skips files that already exist, so delete the old file first to replace one.
+- Hero videos: add a tall (9:16) and a wide (16:9) link for each clip to `media.txt`
+  as `hero-1-tall`, `hero-1-wide` and so on. The Action makes three versions of each:
+  full-HD AV1 (Chrome, Firefox, Android), full-HD HEVC (Safari, iPhone) and a 720p
+  H.264 backup, plus a WebP still of the first frame. The page picks the smallest one
+  each browser can play.
