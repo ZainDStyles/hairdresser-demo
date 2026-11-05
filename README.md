@@ -5,7 +5,7 @@ team, reviews, opening hours and WhatsApp booking. Everything lives in `index.ht
 photos and videos live in `assets/`. No build step: it's plain HTML, CSS and JavaScript,
 hosted free on GitHub Pages.
 
-Live demo: https://zaindstyles.github.io/hairdresser-demo/
+Live demo: https://zainmhene.github.io/hairdresser-demo/
 
 ## Starting a new client site
 
@@ -13,7 +13,7 @@ Live demo: https://zaindstyles.github.io/hairdresser-demo/
    (or copy the files into a new repo). Name it after the salon, e.g. `bloom-hair`.
 2. In the new repo: **Settings** → **Pages** → Source: **Deploy from a branch** →
    Branch: **main**, folder **/ (root)** → **Save**. It goes live at
-   `https://zaindstyles.github.io/<repo-name>/` within a minute or two.
+   `https://zainmhene.github.io/<repo-name>/` within a minute or two.
 3. Re-brand it with the checklist below. Remove the `noindex` line near the top of
    `index.html` so Google can list the real salon.
 
@@ -41,7 +41,7 @@ Work through this list in `index.html` (use Find to jump to each one).
    real business is illegal in the UK.
 10. **Link preview.** Update `og:url` and `og:image` to the new web address, and
     replace `assets/og.jpg` (1200 × 630).
-11. **Footer credit.** `Website by ZainDStyles`, so leave it in and link it to your site.
+11. **Footer credit.** `Website by TSUGI`, linked to tsugidigital.com, so leave it in.
 
 ## Swapping photos and videos
 
